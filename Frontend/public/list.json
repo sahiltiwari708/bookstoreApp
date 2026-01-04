@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "author":"John Donner",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid&w=740&q=80"
+
+    },{
+        "id":2,
+        "name":"Learn React",
+        "author":"Mark Twain",
+        "price":10,
+        "category":"Programming",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSEuC4TAhfPyHVJO0QZV6pvmfUQhgCnbWbrA&s"
+    },
+    {
+        "id":3,
+        "name":"Learn JavaScript",
+        "author":"David Herman",
+        "price":15,
+        "category":"Programming",
+        "image":"https://www.amazon.in/JavaScript-Beginner-Professional-Laurence-Svekis/dp/1837025339"
+    },
+    {
+        "id":4,
+        "name":"Learn Python",
+        "author":"Guido van Rossum",
+        "price":20,
+        "category":"Programming",
+        "image":"https://www.amazon.in/Introduction-Python-Guido-Van-Rossum/dp/1906966133"
+    },
+    {
+        "id":5,
+        "name":"Learn Data Science",
+        "author":"Andrew Ng",
+        "price":25,
+        "category":"Data Science",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPQE4Fasfkbp_u00xeNjwEGVkM5pXbAC5-w&s"
+    }
+]
