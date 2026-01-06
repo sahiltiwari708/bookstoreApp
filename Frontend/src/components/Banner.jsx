@@ -34,7 +34,7 @@ function Banner() {
 </label>
 
 </div>
-  <button className="btn btn-secondary mt-6 hover:bg-pink-600">Secondary</button>
+  <button className="btn btn-secondary mt-6 hover:bg-pink-600">Get Started</button>
 
 
 
