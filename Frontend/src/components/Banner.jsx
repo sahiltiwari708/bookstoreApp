@@ -1,8 +1,12 @@
 import React from 'react'
 import banner from "./../../public/Banner.jpg"
+import { useNavigate } from "react-router-dom";
+
 
 
 function Banner() {
+      const navigate = useNavigate();
+
     return (
         <>
             <div className='max-w-screen-2xl container mx:auto md:px-20 px:4 flex flex-col md:flex-row '>
@@ -34,7 +38,12 @@ function Banner() {
 </label>
 
 </div>
-  <button className="btn btn-secondary mt-6 hover:bg-pink-600">Get Started</button>
+<button
+  className="btn btn-primary hover:bg-pink-600 mt-6"
+  onClick={() => navigate("/Course")}
+>
+  Get Started
+</button>
 
 
 

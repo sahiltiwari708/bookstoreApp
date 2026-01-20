@@ -6,7 +6,7 @@ function contact() {
     <div className='flex h-screen items-center justify-center'>
     <form className='border-[2px] shadow-md p-5 rounded-lg '>
         <div className='top-40 right-80 absolute'>
-    <Link to="/" className="btn btn-sm btn-circle btn-ghost absolute right-3 top-4">✕</Link></div>
+    <Link to="/" className="btn btn-sm btn-circle btn-ghost absolute right-16 top-4">✕</Link></div>
 
         <h1 className='text-2xl font-bold '>Contact Us</h1>
     {/* Name */}
